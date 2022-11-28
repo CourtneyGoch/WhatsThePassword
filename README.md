@@ -5,7 +5,7 @@ This website will run a code in which alerts will prompt the user to generate a 
 
 Please see "Issue" section for requirements, userstory & acceptance criteria 
 
-Finished site: 
+Finished site: https://courtneygoch.github.io/WhatsThePassword/
 
 Screenshots
 <img width="849" alt="Screen Shot 2022-11-27 at 9 30 03 PM" src="https://user-images.githubusercontent.com/116982713/204182940-029627b9-294c-4927-8858-3aa8eae75195.png">
